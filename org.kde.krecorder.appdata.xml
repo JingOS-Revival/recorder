@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+- Copyright 2020 Jonah Brüchert <jbb@kaidan.im>
+- SPDX-License-Identifier: GPL-2.0-or-later
+-->
+<component type="desktop-application">
+  <id>org.kde.krecorder</id>
+  <name>Voice Memos</name>
+  <name xml:lang="ca">Enregistrador</name>
+  <name xml:lang="ca-valencia">Enregistrador</name>
+  <name xml:lang="cs">Nahrávací nástroj</name>
+  <name xml:lang="de">Recorder</name>
+  <name xml:lang="el">Recorder</name>
+  <name xml:lang="en-GB">Recorder</name>
+  <name xml:lang="es">Recorder</name>
+  <name xml:lang="fr">Enregistreur</name>
+  <name xml:lang="it">Registratore</name>
+  <name xml:lang="ko">녹음기</name>
+  <name xml:lang="nl">Recorder</name>
+  <name xml:lang="nn">Recorder</name>
+  <name xml:lang="pt">Gravador</name>
+  <name xml:lang="ro">Recorder</name>
+  <name xml:lang="sk">Záznamník</name>
+  <name xml:lang="sl">Recorder</name>
+  <name xml:lang="sv">Inspelare</name>
+  <name xml:lang="uk">Записувач</name>
+  <name xml:lang="x-test">xxRecorderxx</name>
+  <summary>Audio Recorder</summary>
+  <summary xml:lang="ca">Àudio;Vídeo;Enregistrador;Vídeo de captura de pantalla</summary>
+  <summary xml:lang="ca-valencia">Àudio;Vídeo;Enregistrador;Vídeo de captura de pantalla</summary>
+  <summary xml:lang="cs">Nahrávací nástroj zvuku</summary>
+  <summary xml:lang="de">Audioaufnahme</summary>
+  <summary xml:lang="el">Πρόγραμμα ηχογράφησης</summary>
+  <summary xml:lang="en-GB">Audio Recorder</summary>
+  <summary xml:lang="es">Grabadora de sonido</summary>
+  <summary xml:lang="fr">Enregistreur audio</summary>
+  <summary xml:lang="it">Registratore audio</summary>
+  <summary xml:lang="ko">오디오 녹음기</summary>
+  <summary xml:lang="nl">Geluidsrecorder</summary>
+  <summary xml:lang="nn">Lydopptakar</summary>
+  <summary xml:lang="pt">Gravador de Áudio</summary>
+  <summary xml:lang="ro">Înregistrator de sunet</summary>
+  <summary xml:lang="sk">Zvukový záznamník</summary>
+  <summary xml:lang="sl">Snemalnik zvoka</summary>
+  <summary xml:lang="sv">Ljudinspelare</summary>
+  <summary xml:lang="uk">Записувач звукових даних</summary>
+  <summary xml:lang="x-test">xxAudio Recorderxx</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3+</project_license>
+  <developer_name>KDE Community</developer_name>
+  <developer_name xml:lang="ca">La comunitat KDE</developer_name>
+  <developer_name xml:lang="ca-valencia">La comunitat KDE</developer_name>
+  <developer_name xml:lang="cs">Komunita KDE</developer_name>
+  <developer_name xml:lang="de">KDE-Gemeinschaft</developer_name>
+  <developer_name xml:lang="el">Η Κοινότητα του KDE</developer_name>
+  <developer_name xml:lang="en-GB">KDE Community</developer_name>
+  <developer_name xml:lang="es">Comunidad KDE</developer_name>
+  <developer_name xml:lang="fr">Communauté KDE</developer_name>
+  <developer_name xml:lang="it">Comunità KDE</developer_name>
+  <developer_name xml:lang="ko">KDE 커뮤니티</developer_name>
+  <developer_name xml:lang="nl">KDE gemeenschap</developer_name>
+  <developer_name xml:lang="nn">KDE-fellesskapet</developer_name>
+  <developer_name xml:lang="pt">Comunidade do KDE</developer_name>
+  <developer_name xml:lang="ro">Comunitatea KDE</developer_name>
+  <developer_name xml:lang="sk">KDE komunita</developer_name>
+  <developer_name xml:lang="sl">Skupnost KDE</developer_name>
+  <developer_name xml:lang="sv">KDE-gemenskapen</developer_name>
+  <developer_name xml:lang="uk">Спільнота KDE</developer_name>
+  <developer_name xml:lang="x-test">xxKDE Communityxx</developer_name>
+  <description>
+    <p>Recorder is a simple, cross-platform audio recording application.</p>
+    <p xml:lang="ca">L'Enregistrador és una aplicació individual multiplataforma d'enregistrament d'àudio.</p>
+    <p xml:lang="ca-valencia">L'Enregistrador és una aplicació individual multiplataforma d'enregistrament d'àudio.</p>
+    <p xml:lang="de">Recorder ist eine einfache Anwendung für Audioaufnahmen auf allen Plattformen.</p>
+    <p xml:lang="el">Το Recorder είναι μια απλή, για πολλές πλατφόρμες εφαρμογή καταγραφής ήχου.</p>
+    <p xml:lang="en-GB">Recorder is a simple, cross-platform audio recording application.</p>
+    <p xml:lang="es">Recorder es una sencilla aplicación de grabación de sonido multiplataforma.</p>
+    <p xml:lang="fr">Recorder est une application simple, multiplate-forme d'enregistreur audio.</p>
+    <p xml:lang="it">Registratore è un'applicazione di registrazione audio semplice e multi-piattaforma.</p>
+    <p xml:lang="ko">녹음기는 간단한 교차 플랫폼 오디오 녹음기 프로그램입니다.</p>
+    <p xml:lang="nl">Recorder is een eenvoudige, cross-platform toepassing voor geluidsopnamen.</p>
+    <p xml:lang="nn">Recorder eit eit enkelt program for lydopptak.</p>
+    <p xml:lang="pt">O Gravador é uma aplicação simples e multi-plataforma para a gravação de áudio.</p>
+    <p xml:lang="ro">Recorder e o aplicație simplă pentru înregistrarea sunetului ce rulează pe mai multe platforme.</p>
+    <p xml:lang="sk">Záznamník je jednoduchá cross platformová aplikácia na nahrávanie zvuku.</p>
+    <p xml:lang="sl">Recorder je enostavna aplikacija za različne naprave za snemanje zvoka.</p>
+    <p xml:lang="sv">Recorder är ett enkelt ljudinspelningsprogram för flera plattformar.</p>
+    <p xml:lang="uk">«Записувач» є простою програмою для запису звукових даних, яка може працювати на багатьох програмних платформах.</p>
+    <p xml:lang="x-test">xxRecorder is a simple, cross-platform audio recording application.xx</p>
+  </description>
+</component>
